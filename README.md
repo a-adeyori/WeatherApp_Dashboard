@@ -43,6 +43,3 @@ This project is currently in development, but here's an overview of what's to be
 
 Stay tuned for more updates as this project evolves. Your feedback is always welcome! 
 
----
-
-You can customize this README further as you make progress on your project.
